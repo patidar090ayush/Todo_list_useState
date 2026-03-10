@@ -30,8 +30,8 @@ function Todo() {
       </button>
 
       <br />
-
-      <TodoList todos={todos} />
+       
+      <TodoList todoss={todos} />
     </div>
   );
 }
